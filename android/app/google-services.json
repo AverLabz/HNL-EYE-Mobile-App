@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786202304458",
+    "project_id": "hnl-eye-phase-2-realtime-db",
+    "storage_bucket": "hnl-eye-phase-2-realtime-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786202304458:android:3f91bddc4696b824507933",
+        "android_client_info": {
+          "package_name": "com.hnlcontext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786202304458-1cnqkq4d12d6ni1bsnsguhk0kk8h7bnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAln3_v9ozRO1EHixuPAv7OTzAfg8FokCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786202304458-1cnqkq4d12d6ni1bsnsguhk0kk8h7bnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

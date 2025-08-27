@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/background" />
+    <item
+        android:drawable="@drawable/splash_screen"
+        android:height="123dp"
+        android:width="100dp"
+        android:gravity="center"
+    />
+</layer-list>
+
+<!-- <FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical"
+>
+  <ImageView 
+    android:src="@drawable/splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="centerCrop"
+  >
+  </ImageView>
+</FrameLayout> -->
